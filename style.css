@@ -953,6 +953,7 @@ CAR
     font-size: 1.6rem;
     color: var(--color-secondary-blue);
     transition: all 0.3s;
+    line-height: 1.2;
 }
   
 .footer-link:hover,
